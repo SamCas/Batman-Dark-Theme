@@ -1,0 +1,22 @@
+{
+    "name": "batman-dark-theme",
+    "displayName": "Batman Dark Theme",
+    "description": "A simple color theme to match batman colors.",
+    "version": "0.1.0",
+    "publisher": "SamuelCastillo",
+    "engines": {
+        "vscode": "^1.41.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "BatmanDark Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/BatmanDark Theme-color-theme.json"
+            }
+        ]
+    }
+}
