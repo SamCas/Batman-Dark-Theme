@@ -4,7 +4,10 @@
     "description": "A simple color theme to match batman colors.",
     "version": "0.1.0",
     "publisher": "SamuelCastillo",
-    "icon": "SamCas/batman-dark-theme/batman.jpg",
+    "icon": "batman.jpg",
+    "repository": {
+        "url": "https://github.com/SamCas/batman-dark-theme"
+    },
     "engines": {
         "vscode": "^1.41.0"
     },
